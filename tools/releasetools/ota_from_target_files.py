@@ -911,7 +911,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   device = target_info.GetBuildProp("ro.doraemon.device")
 
   script.Print("----------------------------------------------");
-  script.Print("                  DoraemonS                   ");
+  script.Print("                  DoraemonOS                   ");
   script.Print("               by Nobi Nobita                 ");
   script.Print("                  Trong San                   ");
   script.Print("----------------------------------------------");
