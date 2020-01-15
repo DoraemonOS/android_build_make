@@ -61,6 +61,6 @@ if [ -n "$BUILD_THUMBPRINT" ] ; then
   echo "ro.build.thumbprint=$BUILD_THUMBPRINT"
 fi
 
-echo "org.DoraemonOS.device=$CUSTOM_BUILD"
+echo "ro.doraemon.device=$CUSTOM_BUILD"
 
 echo "# end build properties"
